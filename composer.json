@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "thingengineer/mysqli-database-class": "dev-master",
+        "intervention/image": "^2.7",
+        "hybridauth/hybridauth": "^3.10",
+        "rosell-dk/webp-convert": "^2.9",
+        "rosell-dk/image-mime-type-guesser": "^1.1",
+        "ralouphie/getallheaders": "^3.0",
+        "psr/http-message": "^2.0",
+        "psr/http-factory": "^1.0",
+        "guzzlehttp/psr7": "^2.6",
+        "ausi/slug-generator": "^1.1"
+    }
+}
